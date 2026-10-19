@@ -1,0 +1,29 @@
+.titulo{
+  color: purple;
+  text-align: center;
+  font-size: 50px;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+.autor{
+  font-size: 12px;
+  text-align: right;
+  text-decoration: underline;
+}
+.abstract{
+  color: red;
+  font-family: arial;
+  font-size: 30px;
+}
+.abstract-text{
+  font-style: italic;
+  text-align: justify;
+}
+.introduccion{
+  font-family: papyrus;
+  font-size: 30px;
+  text-align: center;
+}
+.texto-introduccion{
+  text-align: justify;
+  font-size: 14px;
+}
